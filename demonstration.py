@@ -48,7 +48,7 @@ if __name__ == '__main__':
         'num2vec_pow':num2vec_pow,
         'num2vec_matchvie':num2vec_matchvie,
         'num2vec_sign':num2vec_sign,
-        'num2vec_pow':num2vec_pow
+        'num2vec_1d':num2vec_1d
     }
 
     for idx, arg in enumerate(sys.argv):

@@ -1,9 +1,9 @@
 import json
 import numpy as np
 import math
-from num2vec import num2vec
-from num2vec import num2vec2
-from num2vec import num2vec3
+from num2vec import num2vec_matchvie
+from num2vec import num2vec_sign
+from num2vec import num2vec_1d
 from num2vec import num2vec_pow
 
 file_name = 'timeseries/eclipse-vertx__vert.x#io.vertx.benchmarks.ContextBenchmark.runOnContextNoChecks#.json'
